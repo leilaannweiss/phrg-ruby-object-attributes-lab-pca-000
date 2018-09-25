@@ -36,4 +36,7 @@ You'll be teaching `Person` about their jobs through two methods, `#job`, and `#
 
 When you're done submit the lab with `learn submit`
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-object-attributes-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-object-attributes-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Ruby Object Attributes Lab</p>
